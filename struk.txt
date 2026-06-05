@@ -1,0 +1,28 @@
+===== STRUK ATM =====
+Jenis Transaksi : WITHDRAW
+Jumlah          : Rp 10000.0
+Saldo Sekarang  : Rp 450000.0
+Waktu           : 2026-06-05T08:27:49.273721600
+========================
+
+===== STRUK ATM =====
+Jenis Transaksi : WITHDRAW
+Jumlah          : Rp 100000.0
+Saldo Sekarang  : Rp 350000.0
+Waktu           : 2026-06-05T08:57:57.766386500
+========================
+
+===== STRUK ATM =====
+Jenis Transaksi : WITHDRAW
+Jumlah          : Rp 100000.0
+Saldo Sekarang  : Rp 250000.0
+Waktu           : 2026-06-05T09:03:20.887083400
+========================
+
+===== STRUK ATM =====
+Jenis Transaksi : WITHDRAW
+Jumlah          : Rp 50000.0
+Saldo Sekarang  : Rp 100000.0
+Waktu           : 2026-06-05T09:04:42.914583800
+========================
+
